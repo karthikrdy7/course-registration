@@ -4,7 +4,8 @@ courses = [
     "Python Programming",
     "Web Development",
     "Machine Learning",
-    "Database Management"
+    "Database Management",
+    "Cloud Computing"
 ]
 registrations = []
 @app.route("/", methods=["GET", "POST"])
